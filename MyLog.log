@@ -1,0 +1,5 @@
+2019-07-26 16:17:14 [main]  com.TestGitRepo.LoggingPropertiesConcept - DEBUG
+2019-07-26 16:17:14 [main]  com.TestGitRepo.LoggingPropertiesConcept - INFO
+2019-07-26 16:17:14 [main]  com.TestGitRepo.LoggingPropertiesConcept - WARN
+2019-07-26 16:17:14 [main]  com.TestGitRepo.LoggingPropertiesConcept - ERROR
+2019-07-26 16:17:14 [main]  com.TestGitRepo.LoggingPropertiesConcept - FATAL
